@@ -1,0 +1,2 @@
+# Unity_EditorWindowCapture
+選択しているUnityウィンドウをPNG画像で出力するスクリプト
